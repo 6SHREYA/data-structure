@@ -13,5 +13,5 @@ int main()
         sum=sum+marks[i];
      avg=sum/n;
      printf("the average of marks is= %d ",avg);
-     printf("\n This is prepared by Vanshika Kakkar, Roll No. 210321530185");
+    
 }
