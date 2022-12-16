@@ -22,6 +22,6 @@ int main()
         if(i==m)
            printf("no such element exist\n");
     }
-    printf("\n VANSHIKA KAKKAR ROLL NO. 210321530185");
+   
 }
 
