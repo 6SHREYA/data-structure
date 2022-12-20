@@ -31,7 +31,7 @@ void main()
             printf("%d\t",t[i][j]);
         printf("\n");
     }
-     printf("\n VANSHIKA KAKKAR ROLL NO. 210321530185");
+   
 
 }
 
