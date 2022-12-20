@@ -55,5 +55,5 @@ void main()
     }
     else
         printf("multiplication not possible");
-    printf("\n VANSHIKA KAKKAR ROLL NO. 210321530185");
 }
+
