@@ -16,7 +16,7 @@ int main()
             max=arr[i];
     }
       printf("max=%d\n",max);
-      printf("\n VANSHIKA KAKKAR ROLL NO. 210321530185");
+    
 
 }
 
